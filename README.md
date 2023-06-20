@@ -61,32 +61,32 @@ The project allows users to register, login, select a restaurant, make a reserva
 
 ## Sample Output
 
-##Registation of the user.
+1.Registation of the user.
 
 ![Screenshot (10)](https://github.com/mathewsjoe/mini_project_table-reservation-system/assets/118895154/3de7fee3-7473-4051-a53b-20b1d56e4c2f)
 
 
-##Login of the user.
+2.Login of the user.
 
 ![Screenshot (11)](https://github.com/mathewsjoe/mini_project_table-reservation-system/assets/118895154/b438e68e-5bbc-4cf1-a2b8-fd600e837674)
 
 
-##Reservation of the table.
+3.Reservation of the table.
 
 ![Screenshot (12)](https://github.com/mathewsjoe/mini_project_table-reservation-system/assets/118895154/7efc76c3-1b79-45bf-a913-f0a37c22a63a)
 
 
-##Exit from the Application.
+4.Exit from the Application.
 
 ![Screenshot (13)](https://github.com/mathewsjoe/mini_project_table-reservation-system/assets/118895154/db2366b0-fe47-495e-bf04-f37294d83513)
 
 
-##Login by the already registered user.
+5.Login by the already registered user.
 
 ![Screenshot (14)](https://github.com/mathewsjoe/mini_project_table-reservation-system/assets/118895154/33ad0aa5-8326-405a-a8e6-15c032f3b67b)
 
 
-##Cancelation of reservation.
+6.Cancelation of reservation.
 
 ![Screenshot (15)](https://github.com/mathewsjoe/mini_project_table-reservation-system/assets/118895154/96a896e5-11ab-47af-bc38-526b2e66e05c)
 
